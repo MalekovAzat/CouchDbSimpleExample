@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "pouchdb-node": "^7.3.1"
+  }
+}
